@@ -31,18 +31,17 @@ Created for **learning, practice, and portfolio showcase**.
 ## 📂 Project Structure
 
 gemini-clone/
-│
 ├── public/
-│ └── vite.svg
+│   └── vite.svg
 │
 ├── src/
-│ ├── assets/ # Images and static assets
-│ ├── components/ # Reusable React components
-│ ├── config/ # Configuration files
-│ ├── context/ # Global state using Context API
-│ ├── App.jsx # Root component
-│ ├── main.jsx # Application entry point
-│ └── index.css # Global styles
+│   ├── assets/        # Images and static assets
+│   ├── components/   # Reusable React components
+│   ├── config/       # Configuration files
+│   ├── context/      # Global state using Context API
+│   ├── App.jsx       # Root component
+│   ├── main.jsx      # Application entry point
+│   └── index.css     # Global styles
 │
 ├── .gitignore
 ├── index.html
@@ -50,8 +49,6 @@ gemini-clone/
 ├── package-lock.json
 ├── vite.config.js
 └── README.md
-
----
 
 ## ⚙️ Installation & Setup
 
